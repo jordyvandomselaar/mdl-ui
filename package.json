@@ -1,0 +1,25 @@
+{
+  "name": "mdl-ui",
+  "version": "0.0.1",
+  "description": "Material design library for React based on Material Design Lite",
+  "main": "mdl-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordyvandomselaar/mdl-ui.git"
+  },
+  "keywords": [
+    "Material-design",
+    "react",
+    "components",
+    "library"
+  ],
+  "author": "Jordy van Domselaar <jordy.van.domselaar@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordyvandomselaar/mdl-ui/issues"
+  },
+  "homepage": "https://github.com/jordyvandomselaar/mdl-ui#readme"
+}
